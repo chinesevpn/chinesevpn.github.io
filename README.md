@@ -1,7 +1,7 @@
 # 科学上网手册合集
 
 > 网站：**https://chinesevpn.github.io/**
-> 最后更新：2026 年 9 月 24 日
+> 最后更新：2026 年 10 月 12 日
 
 我科学上网快十年了，这里是我按问题整理的几份手册，每份只讲一件事。网页版读起来更方便，下面是目录。
 
@@ -9,12 +9,12 @@
 
 | 手册 | 讲什么 |
 |---|---|
-| [VPN 连不上怎么办？敏感期科学上网自救手册](https://chinesevpn.github.io/china-vpn-not-working/) | 30 秒自检、6 步排查、分设备技巧、节前准备清单、敏感期日历。国庆期间每日更新实况。 |
+| [VPN 连不上怎么办？敏感期科学上网自救手册](https://chinesevpn.github.io/china-vpn-not-working/) | 30 秒自检、6 步排查、分设备技巧、节前准备清单、敏感期日历。 |
 | [在中国用 ChatGPT / Claude / Gemini：注册、防封号与网络环境](https://chinesevpn.github.io/chatgpt-vpn-guide/) | 打不开的原因、注册要点、封号原因与防封清单、报错对照表、充值避坑，附「AI 访问动态」。 |
+| [快连不能用了怎么办？快连替代与迁移手册](https://chinesevpn.github.io/letsvpn-alternative/) | 快连退出时间线、退款步骤、替代品验货表、换工具的七步、避坑清单。 |
 
 ## 还在写的
 
-- 快连退出以后怎么迁移
 - iPhone 科学上网
 - 安卓科学上网
 - 电脑科学上网
