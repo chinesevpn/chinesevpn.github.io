@@ -5,3 +5,4 @@ Sitemap: https://chinesevpn.github.io/sitemap.xml
 Sitemap: https://chinesevpn.github.io/china-vpn-not-working/sitemap.xml
 Sitemap: https://chinesevpn.github.io/chatgpt-vpn-guide/sitemap.xml
 Sitemap: https://chinesevpn.github.io/letsvpn-alternative/sitemap.xml
+Sitemap: https://chinesevpn.github.io/iphone-vpn-china/sitemap.xml
